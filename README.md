@@ -291,7 +291,7 @@
 
 ### ➤ Tools
 
-- [Zovo Bots](https://github.com/mikezovo/zovo-bots) - Free mini-app bots: reminders, polls, split-expenses, habits + 620-page multilingual bot guide library (tg.zovo.one).
+- [Zovo Bots](https://tg.zovo.one) - Free mini-app bots: reminders, polls, split-expenses, habits + 620-page multilingual bot guide library (EN/RU/ES/PT/ID/DE/PL).
 
 - [Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 
