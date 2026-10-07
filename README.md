@@ -273,6 +273,8 @@
 
 ### ➤ TypeScript
 
+- [@NudgeRemindBot](https://t.me/NudgeRemindBot) - Telegram reminder bot for any group chat - delivered in chat by a 1-minute cron, in your own timezone. [GitHub](https://github.com/theluckystrike/telegram-reminder-bot)
+
 - [@GeminiChatBot](https://t.me/GeminiTalkBot) - Uses google's gemini api (free tier). [GitHub](https://github.com/xditya/GeminiChatBot)
 
 - [@VideoDownloadBot](https://t.me/VideoDownloadBot) - Telegram bot to download videos from URLs. [GitHub](https://github.com/Borodutch/VideoDownloadBot)
